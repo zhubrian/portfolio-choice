@@ -13,7 +13,7 @@ Exploring portfolio choice
 Implemented methods in Python to compute various portfolios (e.g. minimum-variance, tangency, optimal), efficient
 frontiers, and gains from diversification using S&P 500 and Nikkei 225 data.
 
-**Paper:**
+**Report:**
 
 See https://github.com/zhubrian/portfolio-choice/blob/main/portfolio-choice-report.pdf
 
