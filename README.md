@@ -2,7 +2,7 @@
 
 **Context:**
 
-Course project for Financial Economics (ECON 251)
+Course project for ECON 251 (Financial Economics)
 
 **Title:**
 
